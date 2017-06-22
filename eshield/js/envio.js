@@ -105,7 +105,7 @@
               data: JSON.stringify(tmp),
 
               success: function(data) {
-                console.log(data);
+                alert(data);
               }
             });
 
